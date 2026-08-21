@@ -1,0 +1,17 @@
+{
+  "short_name": "Nethaji Mart",
+  "name": "Nethaji Mini Mart - Grocery & Daily Essentials",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%231e293b'/><circle cx='256' cy='256' r='200' fill='%23f59e0b'/><path d='M160 180h192l-24 140H184z' fill='%230f172a'/><circle cx='200' cy='360' r='24' fill='%230f172a'/><circle cx='310' cy='360' r='24' fill='%230f172a'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Nethaji Mini Mart Online Grocery Shopping App"
+}

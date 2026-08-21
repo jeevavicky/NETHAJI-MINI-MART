@@ -1,0 +1,81 @@
+<svg viewBox="0 0 500 500" width="500" height="500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Natural Green Background Gradient -->
+    <linearGradient id="naturalGreenBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14602E" />
+      <stop offset="50%" stop-color="#0F5328" />
+      <stop offset="100%" stop-color="#0A3E1D" />
+    </linearGradient>
+
+    <linearGradient id="nethajiYellowGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD214" />
+      <stop offset="100%" stop-color="#FFBC00" />
+    </linearGradient>
+
+    <linearGradient id="leafGradTop" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#15803D" />
+      <stop offset="100%" stop-color="#22C55E" />
+    </linearGradient>
+
+    <linearGradient id="leafGradBottom" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#166534" />
+      <stop offset="100%" stop-color="#4ADE80" />
+    </linearGradient>
+  </defs>
+
+  <!-- Natural Green Background -->
+  <rect width="500" height="500" rx="44" fill="url(#naturalGreenBg)" />
+
+  <!-- Orbital Oval Ring with Directional Arrows -->
+  <path
+    d="M 270 110 C 135 110, 20 170, 20 250 C 20 330, 130 385, 270 385 C 385 385, 475 335, 475 250 C 475 180, 400 128, 302 113"
+    stroke="url(#nethajiYellowGrad)"
+    stroke-width="6"
+    stroke-linecap="round"
+  />
+
+  <!-- Top Clockwise Arrow Head -->
+  <path d="M 312 103 L 296 114 L 308 126 Z" fill="url(#nethajiYellowGrad)" />
+
+  <!-- Bottom Clockwise Arrow Head -->
+  <path d="M 142 355 L 126 368 L 138 380 Z" fill="url(#nethajiYellowGrad)" transform="rotate(160 134 368)" />
+
+  <!-- Fresh Green Two-Leaf Sprout at Top-Right -->
+  <g transform="translate(378, 142) rotate(-8)">
+    <path d="M 0 0 C -16 -20, -6 -40, 12 -44 C 18 -24, 12 -6, 0 0 Z" fill="url(#leafGradTop)" />
+    <path d="M 0 0 C 6 -16, 10 -28, 12 -44" stroke="#062612" stroke-width="1.2" stroke-linecap="round" opacity="0.8" />
+    <path d="M 8 -2 C 22 -16, 36 -22, 46 -16 C 40 -2, 26 6, 8 -2 Z" fill="url(#leafGradBottom)" />
+    <path d="M 8 -2 C 24 -6, 34 -12, 46 -16" stroke="#062612" stroke-width="1.2" stroke-linecap="round" opacity="0.8" />
+  </g>
+
+  <!-- NETHAJI Title -->
+  <text
+    x="250"
+    y="236"
+    text-anchor="middle"
+    fill="url(#nethajiYellowGrad)"
+    font-family="'Arial Black', 'Montserrat', -apple-system, sans-serif"
+    font-weight="900"
+    font-size="84"
+    letter-spacing="3"
+  >
+    NETHAJI
+  </text>
+
+  <!-- superm@rt Subtitle -->
+  <g transform="translate(250, 310)">
+    <text
+      x="0"
+      y="0"
+      text-anchor="middle"
+      font-family="'Montserrat', 'Arial Black', -apple-system, sans-serif"
+      font-weight="900"
+      font-size="48"
+      letter-spacing="0.5"
+    >
+      <tspan fill="#FFFFFF">superm</tspan>
+      <tspan fill="url(#nethajiYellowGrad)" font-size="56" font-weight="900" dx="1">@</tspan>
+      <tspan fill="#FFFFFF" dx="1">rt</tspan>
+    </text>
+  </g>
+</svg>

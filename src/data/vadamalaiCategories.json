@@ -1,0 +1,173 @@
+[
+  {
+    "id": "cat-vadamalai-150721",
+    "name": "Bakery",
+    "subtitle": "Bread & Jam, Cakes",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/d8842acb-cf78-46da-b3e8-0025765ad050-Bakery4.jpg",
+    "description": "Shop fresh Bakery items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150706",
+    "name": "Snacks",
+    "subtitle": "Cookies & Biscuits, Crunchy Snacks, Chocolates & Can...",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/b6038d85-37cd-41a4-967e-c63a0af8e086-snacks3.jpg",
+    "description": "Shop fresh Snacks items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150730",
+    "name": "Beverages",
+    "subtitle": "Drinks, Health Drinks, Coffee, Tea",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/68fee520-bbd6-435a-a97d-7ac9a62224c3-Beverages4.jpg",
+    "description": "Shop fresh Beverages items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150785",
+    "name": "Dairy Products",
+    "subtitle": "Milk & Curd, Ghee, Cheese & Butter, Paneer",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/e32e9c57-2492-4db5-8f06-6279a0742bb1-dairyeggs3.jpg",
+    "description": "Shop fresh Dairy Products items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150740",
+    "name": "Baby Care",
+    "subtitle": "Baby Food, Baby Skin Care, Diapers & Wipes",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/6d2b9e7d-43f5-4e85-8bac-1a10a2adae11-BabyCare4.jpg",
+    "description": "Shop fresh Baby Care items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150719",
+    "name": "Cooking Essentials",
+    "subtitle": "Atta, Rice, Dals, Spices & Edible Oil",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/104eb6f2-905b-4b78-af73-220c33c3d09c-CookingEssentials4.jpg",
+    "description": "Shop fresh Cooking Essentials items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150751",
+    "name": "Ready to Cook",
+    "subtitle": "Noodles, Pasta, Instant Mixes, Ready Meals",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/87ae2d95-0c3b-4cda-9bcf-9b233142cbdb-readytocooknew.jpg",
+    "description": "Shop fresh Ready to Cook items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150782",
+    "name": "Dry Fruits",
+    "subtitle": "Almonds, Cashews, Raisins, Pistachios, Dates",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/7e9e2496-5e3b-41e5-9d51-24e3982e41cf-DryFruits4.jpg",
+    "description": "Shop fresh Dry Fruits items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150756",
+    "name": "Personal Care",
+    "subtitle": "Soaps, Hair Care, Face Wash, Deodorants",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/1a28b5e3-ab00-49a4-bfaf-9b8ae2dbc86b-PersonalCare5.jpg",
+    "description": "Shop fresh Personal Care items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150806",
+    "name": "Household Needs",
+    "subtitle": "Mops & Brooms, Cleaners, Disposables, Air Fresheners",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/4238dc64-a673-4746-85ae-424429e8600f-HouseholdNeeds4.jpg",
+    "description": "Shop fresh Household Needs items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150777",
+    "name": "Detergents & Dishwash",
+    "subtitle": "Detergent Powders, Liquids, Dishwash Bars",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/a7767f53-c014-47f7-b607-86e19031294a-Detergentsanddishwash5.jpg",
+    "description": "Shop fresh Detergents & Dishwash items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150723",
+    "name": "Oral Care",
+    "subtitle": "Toothpastes, Toothbrushes, Mouthwash",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/32c73fba-13f9-4399-ac80-238d61401bc0-OralCare5.jpg",
+    "description": "Shop fresh Oral Care items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150757",
+    "name": "Pooja Care",
+    "subtitle": "Agarbatti, Camphor, Pooja Oils, Diya",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/676d07e2-dfe1-48eb-a257-f56c3ad7a53b-PoojaCare4.jpg",
+    "description": "Shop fresh Pooja Care items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150742",
+    "name": "Stationery",
+    "subtitle": "Notebooks, Pens, Markers, Office Supplies",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/1f6e1d00-9999-4ebe-a706-bf6e2a2e61e1-OtherStationaries3.jpg",
+    "description": "Shop fresh Stationery items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150764",
+    "name": "Readymade Foods",
+    "subtitle": "Jams, Sauces, Spreads, Canned Foods",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/9e43b0a6-3888-472a-814b-82b1892d4f34-ReadymadeFoods5.jpg",
+    "description": "Shop fresh Readymade Foods items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150737",
+    "name": "Freshners & Cleaners",
+    "subtitle": "Room Sprays, Bathroom Cleaners, Repellents",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/85c1d5e2-c7b0-4396-8edf-80d0d6ad81bf-FreshenerandRepellent3.jpg",
+    "description": "Shop fresh Freshners & Cleaners items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150762",
+    "name": "Health & Hygiene",
+    "subtitle": "Handwash, Sanitizers, First Aid, Supplements",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/c815dcbd-13f7-4444-bd0a-e603c4ee526f-health&hygine4.jpg",
+    "description": "Shop fresh Health & Hygiene items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-150708",
+    "name": "Beauty Care",
+    "subtitle": "Face Creams, Body Lotions, Makeup Essentials",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/23e9fa3d-dfd6-4218-9237-8d6028de7141-BeauteCare4.jpg",
+    "description": "Shop fresh Beauty Care items from Vadamalai Supermarket"
+  },
+  {
+    "id": "cat-vadamalai-157879",
+    "name": "OFFERS ZONE",
+    "subtitle": "Exclusive Super Deals, Buy 1 Get 1, ₹1 Specials",
+    "iconName": "ShoppingBag",
+    "itemCount": 0,
+    "image": "https://cdn.rodeodigital.com/admin/category/f0faf623-8a58-48e0-b5c5-0d2eff46edd3-OFFER.jfif",
+    "description": "Shop fresh OFFERS ZONE items from Vadamalai Supermarket"
+  }
+]

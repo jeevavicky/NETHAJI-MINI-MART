@@ -1,0 +1,6 @@
+{
+  "name": "Nethaji Mini Mart",
+  "description": "Local grocery e-commerce store with customer shopping experience and integrated admin dashboard.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
